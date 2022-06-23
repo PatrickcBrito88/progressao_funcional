@@ -7,7 +7,7 @@ De agosto/2018 até a presente data
 Anual
 
 ### Modo de funcionamento
-Escopo: Considerando a necessidade de automatização do sistema de progressão profissional da autarquia, desenvolvi, utilizando os conceitos de Java Desktop, uma aplicação desktop para avaliação dos funcionários. O sistema constrói a árvore de hierarquia entre os cargos e gera as avaliações que devem ser preenchidas pelos próprios funcionários.
+O sistema constrói a árvore de hierarquia entre os cargos e gera as avaliações que devem ser preenchidas pelos próprios funcionários.
 As avaliações são realizadas através da atribuição de valores de 01 a 05, em cada tópico específico, sendo 01 muito abaixo das expectativas e 05 muito acima das expectativas.
 A árvore de hierarquia é necessária, haja vista que as avaliações possuem pesos distintos, sendo a avaliação do líder de cada área, a que possui o maior peso de todo o processo de avaliação.
 O líder também é avaliado pelos seus subordinados, com a ressalva de que sua nota corresponde a média aritmética das avaliações recebidas de cada subordinado.
